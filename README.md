@@ -22,7 +22,7 @@ Software Specification <br>
 ### :three: ER diagram
 The ER Diagram for Internship Management System includes five entities, namely the College, Company Internship Coordinator, Student, Internship and Feedback. The College has an internship coordinator who can register the college, view the details of all the companies that provide internships and retrieve the internship details of any company, view the list of students who have completed at least one internship and retrieve the details of any student. The Company Internship Coordinator can register the company, set-up and update internships and give feedback to the interns who have completed the internship. Similarly, the students can register themselves after completing at least one internship. The registered student can update their profile and view the feedback.
 
-Find the ER diagram [here](https://github.com/prekshapalva/Internship-Management-System/blob/05e68da3975a4e7c7b539f0bb5e1a77d1fc8d399/EntityRD.jpg) and schema diagram [here](https://github.com/prekshapalva/Internship-Management-System/blob/05e68da3975a4e7c7b539f0bb5e1a77d1fc8d399/SchemaD.jpg).
+Find the ER diagram [here](https://github.com/prekshapalva/Internship-Management-System/blob/05e68da3975a4e7c7b539f0bb5e1a77d1fc8d399/Output/EntityRD.jpg) and schema diagram [here](https://github.com/prekshapalva/Internship-Management-System/blob/05e68da3975a4e7c7b539f0bb5e1a77d1fc8d399/Output/SchemaD.jpg).
 
 
 ### :four: Output
